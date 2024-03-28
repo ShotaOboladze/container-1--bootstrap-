@@ -1,0 +1,7 @@
+@import url(./bootstrap@5.3.3.css);
+
+:root {
+  /* Colors */
+  --st-bg-light-rose: #ffebeb;
+  --st-bg-rose: #ffaaaa;
+}
